@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>A Game of Inches</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-01-25T21:27:09+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Jonathan Yom-Tov</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>No, I Won't Do Your Code Interview</title>
+   <link href="http://localhost:4000/2020/01/05/i-wont-do-your-code-interview/"/>
+   <updated>2020-01-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/01/05/i-wont-do-your-code-interview</id>
+   <content type="html">&lt;p&gt;Remember that time the sprint was in bad shape, Google and StackOverflow were down and you saved the day by pulling a marathon whiteboard coding session, solving the Longest Common Subsequence problem in least time and space? Yeah, neither do I. But you know what? I did have a similar experience recently, I went to a coding interview.&lt;/p&gt;
+
+&lt;p&gt;Here’s what an interview at a very well-known company was like - I was required to write code on a piece of paper to print the nodes of a binary tree in a zigzag pattern, that is, the first level from right to left, the second from left to right etc. When I provided my solution the interviewer asked some questions about it and the interview was over. This was very similar to and representative of other interviews I had.&lt;/p&gt;
+
+&lt;p&gt;After the interview if the interviewer had to assess how well I would do on everyday programming tasks, like a building a microservice or scraping a website, my solution to the task would’ve been no help at all. Sure, he might have been able to tell with some accuracy whether or not I would’ve been able to zigzag print a binary tree, but in more than fifteen years of coding the number of times I’ve had to solve that problem can be counted on the fingers of one hand, if that hand had lost all its fingers to a vicious polar bear.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;public/images/empty-convention.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Pictured: annual convention of developers who code binary tree sum algorithms for a living&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To this observation the interviewer would respond with the fact that algorithms are the bedrock of a developer’s skillset. That argument comes up hard against what &lt;a href=&quot;https://en.wikipedia.org/wiki/Gerald_Jay_Sussman&quot;&gt;Gerry Sussman&lt;/a&gt; said recently. When asked why he stopped teaching &lt;a href=&quot;https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs&quot;&gt;Structure and Interpretation of Computer Programs&lt;/a&gt; at MIT he &lt;a href=&quot;https://web.archive.org/web/20180609142559/http:/www.posteriorscience.net/?p=206&quot;&gt;said&lt;/a&gt; that programming today is “More like science. You grab this piece of library and you poke at it. You write programs that poke it and see what it does. And you say, ‘Can I tweak it to do the thing I want?’”. I might be a champion implementer of quicksort but to the company I work for that’s useless since quicksort has an easily available implementation in every programming language. A good developer doesn’t have to know how to implement quicksort. He might need to know its complexity but that can be easily looked up on the internet.&lt;/p&gt;
+
+&lt;p&gt;Which brings me to my next point. In most interviews I wasn’t allowed to use the internet. There are developers who work on classified projects and are barred from going online but for the vast majority the internet is an essential tool. Looking up open source libraries and the documentation for software tools takes up a large part of any developer’s day. Testing a candidate without allowing him access to his tools makes no sense at all. The same is true for writing code on paper. This brings up a whole class of problems which are simply not there in a regular work environment. The candidate has to waste time thinking about spacing and similar issues. The interviewer must try hard not to gouge out his own eyes when he encounters the candidate’s handwriting.&lt;/p&gt;
+
+&lt;p&gt;Finally, there’s the issue of every interview having a time limit and often an interviewer looking over the candidate’s shoulder.  That creates an atmosphere of pressure. I suppose you could argue that if the candidate is able to solve a problem under pressure then he’d be excellent when there’s none. Except, no, that’s not how it works at all. Some people can handle pressure well, some can’t. If a candidate can code under pressure it just means they can code under pressure. And the more pressure you apply the more likely it is that the candidate will fail, creating a false negative for the interviewer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;public/images/firefighters.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Pictured: professionals who work under pressure, not pictured: developers&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So do I have alternative suggestions? Yes, and they’re heavily inspired by Thomas Ptacek, so you should check out his article, which I Iink to below.&lt;/p&gt;
+
+&lt;p&gt;First, be nice. Let’s face it, the market is heavily in favor of developers, you need to take that into account. Explain the process, tell them about the company and role, answer any questions they may have. This has the added benefit of giving the candidate a good idea of what to expect, both from the process and the role you’re hiring for.&lt;/p&gt;
+
+&lt;p&gt;Second, have a test that’s as objective as it can be. All candidates for the role get the same test. A take home test. This gives the developer the ability to use his favorite tools and eases pressure. The test should check the candidate’s real world coding skills. Reversing a string is not a real world coding skill, creating a containerized web server is. Grade the test based on things you can measure. Is the code scalable and readable? Can it recover from errors? Test the test. Did a question give a good indication about a candidate? If not, replace it. Collect the data and close the loop. The process is not done when the candidate is hired, you need to follow up on how well the employee is doing and if the test was any good at predicting performance.&lt;/p&gt;
+
+&lt;h4 id=&quot;further-reading&quot;&gt;Further reading:&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Thomas Ptacek on why &lt;a href=&quot;https://sockpuppet.org/blog/2015/03/06/the-hiring-post/&quot;&gt;coding interviews are bad and what to do about it&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Dan Luu on why &lt;a href=&quot;https://danluu.com/algorithms-interviews/&quot;&gt;algorithm interviews are bad&lt;/a&gt;. Also mentions that he usually fails them. If an interview fails Dan Luu it’s a really bad interview.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+
+</feed>
