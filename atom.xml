@@ -4,7 +4,7 @@
  <title>A Game of Inches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-01-25T21:27:09+02:00</updated>
+ <updated>2020-01-31T22:05:17+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jonathan Yom-Tov</name>
@@ -30,7 +30,7 @@
 
 &lt;p&gt;Which brings me to my next point. In most interviews I wasn’t allowed to use the internet. There are developers who work on classified projects and are barred from going online but for the vast majority the internet is an essential tool. Looking up open source libraries and the documentation for software tools takes up a large part of any developer’s day. Testing a candidate without allowing him access to his tools makes no sense at all. The same is true for writing code on paper. This brings up a whole class of problems which are simply not there in a regular work environment. The candidate has to waste time thinking about spacing and similar issues. The interviewer must try hard not to gouge out his own eyes when he encounters the candidate’s handwriting.&lt;/p&gt;
 
-&lt;p&gt;Finally, there’s the issue of every interview having a time limit and often an interviewer looking over the candidate’s shoulder.  That creates an atmosphere of pressure. I suppose you could argue that if the candidate is able to solve a problem under pressure then he’d be excellent when there’s none. Except, no, that’s not how it works at all. Some people can handle pressure well, some can’t. If a candidate can code under pressure it just means they can code under pressure. And the more pressure you apply the more likely it is that the candidate will fail, creating a false negative for the interviewer.&lt;/p&gt;
+&lt;p&gt;Finally, there’s the issue of every interview having a time limit and often an interviewer looking over the candidate’s shoulder.  That creates an atmosphere of pressure. I suppose you could argue that if the candidate is able to solve a problem under pressure then he’d be excellent when there’s none. Except, no, &lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0167268115001110&quot;&gt;that’s not how it works at all&lt;/a&gt;. Some people can handle pressure well, some can’t. If a candidate can code under pressure it just means they can code under pressure. And the more pressure you apply the more likely it is that the candidate will fail, creating a false negative for the interviewer.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;public/images/firefighters.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Pictured: professionals who work under pressure, not pictured: developers&lt;/em&gt;&lt;/p&gt;
@@ -44,7 +44,7 @@
 &lt;h4 id=&quot;further-reading&quot;&gt;Further reading:&lt;/h4&gt;
 &lt;ol&gt;
   &lt;li&gt;Thomas Ptacek on why &lt;a href=&quot;https://sockpuppet.org/blog/2015/03/06/the-hiring-post/&quot;&gt;coding interviews are bad and what to do about it&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Dan Luu on why &lt;a href=&quot;https://danluu.com/algorithms-interviews/&quot;&gt;algorithm interviews are bad&lt;/a&gt;. Also mentions that he usually fails them. If an interview fails Dan Luu it’s a really bad interview.&lt;/li&gt;
+  &lt;li&gt;Dan Luu on why &lt;a href=&quot;https://danluu.com/algorithms-interviews/&quot;&gt;algorithm interviews are bad&lt;/a&gt;. Also mentions that he usually fails them. If an interview fails Dan Luu it’s a bad interview.&lt;/li&gt;
 &lt;/ol&gt;
 </content>
  </entry>
